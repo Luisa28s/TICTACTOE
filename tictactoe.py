@@ -20,6 +20,8 @@ tablero = [['','',''],
            ['','',''],
            ['','','']]
 
+##otra vez pruebaaaa
+
 turno = 'X'
 game_over = False
 clock = pygame.time.Clock()
